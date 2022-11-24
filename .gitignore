@@ -1,0 +1,9 @@
+data
+venv
+__pycache__
+.vscode
+analysis/clip_size_results
+analysis/dimensions_results
+analysis/explainer_results
+analysis/prompt_analysis_results
+analysis/embedding_visualizations
